@@ -3,6 +3,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
+
 public class Login {
     public static boolean validate(String username, String password) {
         boolean status = false;
@@ -20,3 +21,4 @@ public class Login {
         return status;
     }
 }
+
