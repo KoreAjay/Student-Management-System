@@ -3,6 +3,7 @@ The Student Management System is a desktop-based application developed using Jav
 
 This application allows administrators to add, view, update, and delete student information such as Name, Course, and Age. It offers a user-friendly interface and provides real-time interaction with the database to ensure that the data remains consistent and accurate
 
+
 🎯 Objectives:
 To create a simple and intuitive GUI for managing student data.
 
